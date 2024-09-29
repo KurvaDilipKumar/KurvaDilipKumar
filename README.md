@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KurvaDilipKumar
+- 👋 Hi, I’m DilipKumarKurva
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
